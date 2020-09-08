@@ -1,4 +1,4 @@
-module github.com/roeyaus/zd/v2
+module github.com/roeyaus/zd
 
 go 1.14
 
